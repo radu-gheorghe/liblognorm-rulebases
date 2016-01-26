@@ -1,1 +1,3 @@
 This is the directory for v1 rulebases. Even though liblognorm v2 should still work with these, it's recommended to create new rules based on the v2 format (which go into the v2 directory)
+
+You'l find quite a lot of patterns as part of Sagan at https://github.com/beave/sagan-rules (watch for .rulebase files)
